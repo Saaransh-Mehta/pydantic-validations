@@ -56,3 +56,5 @@ class User(BaseModel):
         min_lenght=10,
         max_length=10
     )
+
+
